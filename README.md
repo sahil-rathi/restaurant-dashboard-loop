@@ -1,12 +1,18 @@
 # Restaurant-Dashboard-Loop
 
-
+Home interview for Loop-Fronted-Internship
 
 To run the project :
 
-1. Run "npm install" in the restaurant-dashboard-loop folder.
-2. Type "npm start" 
+ -  Go to the restaurant-dashboard-loop folder and run the following in terminal : 
+                
+         npm install
+        
+ -   Now run the web-project : 
+
+         npm start 
 
 
-
-Try "npm install --legacy-peer-deps" if having any issues.
+If you are having any issues try the following command : 
+    
+         npm install --legacy-peer-deps
